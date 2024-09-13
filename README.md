@@ -3,9 +3,9 @@ currently reading and learning about C++
 
 
 # languages
-* C++ / C
+* C / C++
 * TS
-* Java
+* Rust
 * Go
 
 [![C++/C Stats](https://github-readme-stats.vercel.app/api?username=lotading&show_icons=true&theme=radical)](https://github.com/lotading)
